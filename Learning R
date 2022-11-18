@@ -1,0 +1,31 @@
+# This is cwc's first RMarkdown
+
+# Preface
+I just learned this part today and started to study RMarkdown
+# Chart1
+This is a sentence.
+
+Now a list begins:
+
+- no importance
+- again
+- repeat
+
+A numbered list:
+
+1. first
+2. second
+
+__bold__,_=8italic8=_,~~strile through~~
+
+[Download R](http://www.r-project.org/)
+
+Table Header  | Second Header
+-------------  | -------------
+Cell 1, 1     | Cell 2, 1
+Cell 1, 2     | Cell 2, 2
+
+```{r}
+library(dplyr)
+```
+
